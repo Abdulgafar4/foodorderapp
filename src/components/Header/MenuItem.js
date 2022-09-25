@@ -5,8 +5,8 @@ import { useStyles } from "./Style";
 
 const links = [
   { link: "/", label: "Home" },
-  { link: "/features", label: "Features" },
-  { link: "/product", label: "Products" },
+  { link: "#features", label: "Features" },
+  { link: "#product", label: "Products" },
   {
     link: "#categories",
     label: "Categories",
@@ -21,8 +21,8 @@ const links = [
       { link: "/chocolate", label: "Chocolate boxes" },
     ],
   },
-  { link: "/review", label: "Review" },
-  { link: "/blogs", label: "Blogs" },
+  { link: "#review", label: "Review" },
+  { link: "#blogs", label: "Blogs" },
 ];
 
 export function MenuItem() {
