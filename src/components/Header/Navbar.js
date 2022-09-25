@@ -3,7 +3,6 @@ import {
   IconHome,
   IconNote,
   IconInfoCircle,
-  IconQuestionMark,
   IconCoin,
 } from "@tabler/icons";
 import { useStyles } from "./Style";
